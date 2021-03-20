@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hai, Nama saya Faruq Aziz'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Seorang freelance dan berstatus aktif sebagai mahasiswa di STMIK Nusa
+      Mandiri Jakarta
     actions:
       - label: Let's talk
         url: /contact
