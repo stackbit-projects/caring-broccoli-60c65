@@ -9,7 +9,7 @@ sections:
       Seorang freelance dan berstatus aktif sebagai mahasiswa di STMIK Nusa
       Mandiri Jakarta
     actions:
-      - label: Let's talk
+      - label: Hubungi saya
         url: /contact
         style: button
   - section_id: latest-projects
