@@ -28,8 +28,9 @@ sections:
     is_numbered: true
     grid_items:
       - title: Kecepatan
-        content: |
-          Pembuatan program akan sesuai dengan estimasi waktu yang ditentukan
+        content: >
+          Program akan selesai sesuai dengan estimasi waktu yang telah
+          disepakati bersama
       - title: Terjangkau
         content: >
           Harga yang ditawarkan tergantung kompleksitas fitur, jadi bisa
