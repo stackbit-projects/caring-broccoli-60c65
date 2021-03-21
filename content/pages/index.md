@@ -33,7 +33,7 @@ sections:
       - title: Terjangkau
         content: >
           Harga yang ditawarkan tergantung kompleksitas fitur, jadi bisa
-          menyesuaikan dengan budget
+          menyesuaikan dengan budget Anda
       - title: Fleksibel
         content: >
           Program akan diatur otomatis serta akan disesuaikan dengan baik
