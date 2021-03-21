@@ -17,7 +17,7 @@ sections:
     layout_style: mosaic
     title: Recent Work
     subtitle: Proyek terakhir yang pernah dibuat
-    projects_number: 3
+    projects_number: 4
     view_all_label: View All
     view_all_url: portfolio
   - section_id: services
