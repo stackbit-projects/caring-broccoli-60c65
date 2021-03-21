@@ -64,7 +64,7 @@ seo:
       value: Faruq Aziz
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: Faruq Aziz FansPage
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
