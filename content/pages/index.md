@@ -38,7 +38,7 @@ sections:
       - title: Fleksibel
         content: >
           Program akan diatur otomatis serta akan disesuaikan dengan baik
-          sehingga tidak menyulitkan Anda
+          sehingga tidak menyulitkan Anda.
       - title: Dukungan
         content: >
           Program akan mendapat dukungan berupa perbaikan tanpa ada tambahan
