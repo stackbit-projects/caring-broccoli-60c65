@@ -55,7 +55,7 @@ sections:
         style: button
 seo:
   title: Faruq Aziz
-  description: The preview of the Exto theme
+  description: My Blog and Portfolio
   extra:
     - name: 'og:type'
       value: website
