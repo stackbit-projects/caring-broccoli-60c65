@@ -30,7 +30,7 @@ sections:
       - title: Kecepatan
         content: >
           Program akan selesai sesuai dengan estimasi waktu yang telah
-          disepakati bersama
+          disepakati bersama.
       - title: Terjangkau
         content: >
           Harga yang ditawarkan tergantung kompleksitas fitur, jadi bisa
