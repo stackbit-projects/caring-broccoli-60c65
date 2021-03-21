@@ -28,7 +28,7 @@ sections:
         options:
           - Website Error
           - Sponsorship
-          - Other
+          - Partnership
           - lorem-ipsum
       - input_type: textarea
         name: message
