@@ -31,10 +31,9 @@ sections:
         content: |
           Pembuatan program akan sesuai dengan estimasi waktu yang ditentukan
       - title: Terjangkau
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          Harga yang ditawarkan tergantung kompleksitas fitur, jadi bisa
+          menyesuaikan dengan budget
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
