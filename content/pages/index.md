@@ -46,7 +46,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
-    subtitle: Blog te
+    subtitle: Bahasan yang hangat dibahas
     posts_number: 3
     col_number: three
     actions:
