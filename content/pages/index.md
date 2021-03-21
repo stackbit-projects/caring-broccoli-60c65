@@ -39,7 +39,7 @@ sections:
         content: >
           Program akan diatur otomatis serta akan disesuaikan dengan baik
           sehingga tidak menyulitkan Anda
-      - title: Service title
+      - title: Dukungan
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
