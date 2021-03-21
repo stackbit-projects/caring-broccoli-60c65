@@ -35,10 +35,9 @@ sections:
           Harga yang ditawarkan tergantung kompleksitas fitur, jadi bisa
           menyesuaikan dengan budget
       - title: Fleksibel
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: >
+          Program akan diatur otomatis serta akan disesuaikan dengan baik
+          sehingga tidak menyulitkan Anda
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
