@@ -28,10 +28,8 @@ sections:
     is_numbered: true
     grid_items:
       - title: Kecepatan
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          Pembuatan program akan sesuai dengan estimasi waktu yang ditentukan
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
