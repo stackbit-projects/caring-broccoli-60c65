@@ -3,7 +3,7 @@ title: Renungan atau Keluhan?
 subtitle: Sebuah curahan hati
 date: '2021-03-22'
 thumb_image_alt: ruang-magang
-image_alt: lorem-ipsum
+image_alt: tempat-magang-jakarta
 excerpt: lorem-ipsum
 seo:
   title: ''
