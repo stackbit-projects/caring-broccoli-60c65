@@ -1,6 +1,6 @@
 ---
 title: Renungan atau Keluhan?
-subtitle: lorem-ipsum
+subtitle: Sebuah curahan hati
 date: '2021-03-22'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
