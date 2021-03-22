@@ -4,7 +4,7 @@ subtitle: Sebuah curahan hati
 date: '2021-03-22'
 thumb_image_alt: ruang-magang
 image_alt: tempat-magang-jakarta
-excerpt: lorem-ipsum
+excerpt: Kemanakah aku berlanjut?
 seo:
   title: ''
   description: ''
