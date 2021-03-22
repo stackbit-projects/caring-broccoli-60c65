@@ -1,6 +1,6 @@
 ---
 title: Merenung atau Mengeluh
-subtitle: Hanya sebuah tulisan renungan
+subtitle: Hanya sebuah curhat
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
