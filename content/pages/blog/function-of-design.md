@@ -4,7 +4,7 @@ subtitle: Hanya sebuah tulisan renungan
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
-date: '0020-01-15'
+date: '2021-01-15'
 thumb_image: images/13_thumb.jpg
 thumb_image_alt: Library shelves
 image: images/13.jpg
