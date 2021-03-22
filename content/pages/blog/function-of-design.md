@@ -1,6 +1,6 @@
 ---
 title: Merenung atau Mengeluh
-subtitle: 'Ini ceritaku, renunganku yang bisa kamu '
+subtitle: Hanya sebuah tulisan renungan
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
