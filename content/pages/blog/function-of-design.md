@@ -1,6 +1,6 @@
 ---
 title: Merenung atau Mengeluh
-subtitle: 'A interesting tale about function of design '
+subtitle: 'Ini ceritaku, keluh kesah dan renunganku'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
