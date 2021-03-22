@@ -64,7 +64,7 @@ seo:
       value: Faruq Aziz
       keyName: property
     - name: 'og:description'
-      value: Faruq Aziz FansPage
+      value: Faruq Aziz's Blog
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
