@@ -21,5 +21,6 @@ Bagi mahasiswa Universitas Nusa Mandiri (UNM) yang sedang mencari logo UNM baik 
 
 Berikut logo Universitas Nusa Mandiri (UNM) yang benar:
 
+![](/images/WhatsApp%20Image%202021-04-10%20at%2012.39.34.jpeg)
 
-
+atau bisa download [disini](https://drive.google.com/file/d/1ufmm2doyoSyNI69BkywpH7AC9v-0afwq/view?usp=sharing)
