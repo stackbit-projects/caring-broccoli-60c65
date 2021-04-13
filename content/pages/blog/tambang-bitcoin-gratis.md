@@ -2,7 +2,6 @@
 title: Mining CryptoTab Mudah dan Gratis
 subtitle: 'Walau receh, terbukti membayar'
 date: '2021-04-13'
-thumb_image_alt: lorem-ipsum
 image_alt: CryptoTab Mining
 seo:
   title: Mining Bitcoin dengan CryptoTab
