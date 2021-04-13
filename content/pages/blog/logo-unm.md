@@ -11,11 +11,7 @@ seo:
     Logo baru Universitas Nusa Mandiri (UNM) yang dahulu merupakan STMIK Nusa
     Mandiri
   robots: []
-  extra:
-    - name: 'og:image'
-      value: Logo Universitas Nusa Mandiri (UNM)
-      keyName: property
-      relativeUrl: true
+  extra: []
   type: stackbit_page_meta
 layout: post
 ---
