@@ -4,7 +4,6 @@ subtitle: 'Walau receh, terbukti membayar'
 date: '2021-04-13'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
 seo:
   title: Mining Bitcoin dengan CryptoTab
   description: Cara tambang bitcoin gratis dan bisa digunakan pada smartphone Anda
