@@ -6,7 +6,7 @@ thumb_image_alt: Logo Universitas Nusa Mandiri
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
-  title: ''
+  title: Logo Universitas Nusa Mandiri
   description: ''
   robots: []
   extra: []
