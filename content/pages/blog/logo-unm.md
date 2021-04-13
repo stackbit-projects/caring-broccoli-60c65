@@ -1,6 +1,6 @@
 ---
 title: LOGO UNIVERSITAS NUSA MANDIRI
-subtitle: lorem-ipsum
+subtitle: STMIK NUSA MANDIRI Berganti Menjadi UNIVERSITAS NUSA MANDIRI (UNM)
 date: '2021-04-13'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
