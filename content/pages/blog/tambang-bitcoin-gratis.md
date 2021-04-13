@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Mining CryptoTab Mudah dan Gratis
 subtitle: lorem-ipsum
 date: '2021-04-13'
 thumb_image_alt: lorem-ipsum
