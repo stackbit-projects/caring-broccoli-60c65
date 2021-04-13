@@ -7,7 +7,9 @@ image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
   title: Logo Universitas Nusa Mandiri
-  description: ''
+  description: >-
+    Logo baru Universitas Nusa Mandiri (UNM) yang dahulu merupakan STMIK Nusa
+    Mandiri
   robots: []
   extra: []
   type: stackbit_page_meta
