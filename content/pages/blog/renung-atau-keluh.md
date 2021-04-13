@@ -27,3 +27,4 @@ Faruq kecil, jalani pendidikan di sekolah Madrasah Ibtidaiyah tempat ibunya meng
 
 Setelah lulus SMA, ayahnya menyampaikan apabila kamu ingin kuliah, pilihannya antara cari uang sendiri dulu (kerja + kuliah) atau fokus kerja dulu (kerja + nabung) yah syukur-syukur dapat beasiswa, paling orangtua hanya membantu sedikit saja biaya untuk sehari-harinya. Maka, ditentukannya kuliah. Saat mulai masuk tahap kuliah, Faruq sedang dimur 18 akhir mulai kuliah disalah satu kampus sejuta umat, yaitu Bina Sarana Informatika yang saat ini menjadi Universitas. Faruq mendapat beasiswa sampai S2 dengan kesepakatan tidak boleh ada kontrak dengan instansi/ yayasan lain selama kuliah serta harus mengabdi pada kampus setelah lulus S2 selama 7 tahun, kemudian IPK harus >3 selama kuliah.
 
+Sekarang dia sedang kuliah s2 semester 3,
