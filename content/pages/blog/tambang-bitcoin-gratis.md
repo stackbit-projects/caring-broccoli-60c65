@@ -1,6 +1,6 @@
 ---
 title: Mining CryptoTab Mudah dan Gratis
-subtitle: lorem-ipsum
+subtitle: 'Walau receh, terbukti membayar'
 date: '2021-04-13'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
