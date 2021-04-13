@@ -14,6 +14,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_image: images/WhatsApp Image 2021-04-10 at 12.39.34.jpeg
 ---
 Bagi mahasiswa Universitas Nusa Mandiri (UNM) yang sedang mencari logo UNM baik untuk penerbitan surat keterangan, tugas kampus, tugas akhir, dll, kali ini aku akan berbagi informasi tentang logo UNM buat kamu. Dulu namanya STMIK Nusa Mandiri, mulai tahun 2021 berganti nama menjadi Universitas Nusa Mandiri atau UNM. Mulai dari fakultas dan staff, rencana pembelajaran dan logo juga mengalami perubahan.
 
