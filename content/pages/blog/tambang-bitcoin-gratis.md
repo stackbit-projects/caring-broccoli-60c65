@@ -7,7 +7,7 @@ image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
   title: Mining Bitcoin dengan CryptoTab
-  description: ''
+  description: Cara tambang bitcoin gratis dan bisa digunakan pada smartphone Anda
   robots: []
   extra: []
   type: stackbit_page_meta
