@@ -1,6 +1,6 @@
 ---
 title: Tambang Bitcoin Mudah dan Gratis
-subtitle: lorem-ipsum
+subtitle: mining bitcoin with cryptotab free and easy
 date: '2021-04-13'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
