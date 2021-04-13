@@ -13,9 +13,9 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
+Bagi mahasiswa Universitas Nusa Mandiri (UNM) yang sedang mencari logo UNM baik untuk penerbitan surat keterangan, tugas kampus, tugas akhir, dll, kali ini aku akan berbagi informasi tentang logo UNM buat kamu. Dulu namanya STMIK Nusa Mandiri, mulai tahun 2021 berganti nama menjadi Universitas Nusa Mandiri atau UNM. Mulai dari fakultas dan staff, rencana pembelajaran dan logo juga mengalami perubahan.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Berikut logo Universitas Nusa Mandiri (UNM) yang benar:
 
-- Lorem ipsum
-- dolor sit amet
+
+
