@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: 'Hai, Nama saya Faruq Aziz'
     content: >
-      Seorang freelance dan berstatus aktif sebagai mahasiswa di STMIK Nusa
-      Mandiri Jakarta
+      Seorang freelance dan berstatus aktif sebagai mahasiswa di Universitas
+      Nusa Mandiri Jakarta
     actions:
       - label: Hubungi saya
         url: /contact
