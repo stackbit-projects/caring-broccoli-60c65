@@ -18,7 +18,7 @@ sections:
       - input_type: email
         name: email
         label: Email
-        default_value: Alamat email yang bisa dihubungi juga ya
+        default_value: Alamat email yang bisa dihubungi balik juga ya
         is_required: true
       - input_type: select
         name: subject
