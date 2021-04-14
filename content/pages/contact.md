@@ -5,9 +5,8 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >
-      Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send me an email at
-      cuanku.official@gmail.com
+      Ada sesuatu yang mau kamu sampaikan, isi saja formulir ini atau kamu juga
+      bisa kirim email ke cuanku.official@gmail.com
     form_id: contactForm
     form_action: /thank-you
     form_fields:
