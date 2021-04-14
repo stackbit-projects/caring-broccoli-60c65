@@ -23,4 +23,5 @@ Berikut logo Universitas Nusa Mandiri (UNM) yang benar:
 
 ![](/images/LOGO%20UNM.jpeg)
 
-atau bisa download [disini](https://drive.google.com/file/d/1ufmm2doyoSyNI69BkywpH7AC9v-0afwq/view?usp=sharing)
+atau bisa download [disini](https://drive.google.com/file/d/1ufmm2doyoSyNI69BkywpH7AC9v-0afwq/view?usp=sharing) atau juga bisa kunjungi website resminya Universitas Nusa Mandiri di [https://nusamandiri.info/](https://nusamandiri.info/download/)
+
