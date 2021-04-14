@@ -20,4 +20,4 @@ Pada artikel kali ini saya akan membahas tentang software penambang Bitcoin Otom
 
 ![](/images/product_logo\_500px.png)
 
-Langsung download aja [klik disini](https://get.cryptobrowser.site/49/22271995)
+Langsung download aja [klik disini](https://get.cryptobrowser.site/48/22271995)
