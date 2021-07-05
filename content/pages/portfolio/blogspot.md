@@ -13,9 +13,4 @@ seo:
 layout: project
 thumb_image: images/blogl.PNG
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+My First Website built with [Blogspot](https://www.blogger.com/) : <https://ajakmaindong.blogspot.com/>
