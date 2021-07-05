@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Buat website bagus dengan Mobirise
 subtitle: lorem-ipsum
 date: '2021-07-05'
 thumb_image_alt: lorem-ipsum
