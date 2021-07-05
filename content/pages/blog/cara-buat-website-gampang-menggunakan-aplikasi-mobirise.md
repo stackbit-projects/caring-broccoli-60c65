@@ -4,7 +4,7 @@ subtitle: Membuat website landing page bagus dengan CMS Mobirise
 date: '2021-07-05'
 thumb_image_alt: Mobirise CMS
 image_alt: Website Builder MOBIRISE
-excerpt: CMS Mobirise untuk buat wes
+excerpt: CMS Mobirise untuk buat we
 seo:
   title: ''
   description: ''
