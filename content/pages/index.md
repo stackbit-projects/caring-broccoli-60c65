@@ -12,13 +12,6 @@ sections:
       - label: Hubungi saya
         url: /contact
         style: button
-      - label: My Blogspot
-        url: 'https://ajakmaindong.blogspot.com/'
-        style: button
-        icon: dribbble
-        new_window: true
-        no_follow: false
-        type: action
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
