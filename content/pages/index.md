@@ -12,7 +12,7 @@ sections:
       - label: Hubungi saya
         url: /contact
         style: button
-      - label: lorem-ipsum
+      - label: My Blogspot
         url: '#'
         style: link
         icon: dribbble
