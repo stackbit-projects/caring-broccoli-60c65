@@ -1,6 +1,6 @@
 ---
 title: Blogspot
-subtitle: lorem-ipsum
+subtitle: blogspot untuk mengisi kegabutan
 date: '2021-07-05'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
