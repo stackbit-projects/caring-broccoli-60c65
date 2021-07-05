@@ -16,7 +16,7 @@ sections:
         url: 'https://ajakmaindong.blogspot.com/'
         style: button
         icon: dribbble
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
   - section_id: latest-projects
