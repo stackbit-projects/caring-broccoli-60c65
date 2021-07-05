@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: images/mobirise1.PNG
+image: images/mobirise2.PNG
 ---
 ## Lorem ipsum
 
