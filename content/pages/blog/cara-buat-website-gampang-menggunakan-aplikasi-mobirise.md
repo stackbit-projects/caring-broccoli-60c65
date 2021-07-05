@@ -3,7 +3,7 @@ title: Buat website bagus dengan Mobirise
 subtitle: Membuat website landing page bagus dengan CMS Mobirise
 date: '2021-07-05'
 thumb_image_alt: Mobirise CMS
-image_alt: lorem-ipsum
+image_alt: Website Builder MOBIRISE
 excerpt: lorem-ipsum
 seo:
   title: ''
