@@ -3,7 +3,7 @@ title: Blogspot
 subtitle: blogspot untuk mengisi kegabutan
 date: '2021-07-05'
 thumb_image_alt: blogspot gabut
-image_alt: 'https://ajakmaindong.blogspot.com/'
+image_alt: ajakmaindong.blogspot.com
 seo:
   title: ''
   description: ''
