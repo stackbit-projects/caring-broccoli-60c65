@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_image: images/mobirise1.PNG
 ---
 ## Lorem ipsum
 
