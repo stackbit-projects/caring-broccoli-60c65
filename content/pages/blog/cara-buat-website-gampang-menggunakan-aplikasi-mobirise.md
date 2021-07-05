@@ -15,9 +15,28 @@ layout: post
 thumb_image: images/mobirise1.PNG
 image: images/mobirise2.PNG
 ---
-## Lorem ipsum
+# **Cara Buat Website Keren dengan CMS Mobirise**
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+****![](/\_static/app-assets/mobirise3.PNG)
 
-- Lorem ipsum
-- dolor sit amet
+Hola, netizen, kali ini saya mau sedikit sharing tentang aplikasi website builder yang keren nih, udah lama sih aplikasi ini cuma masih powerful untuk buat landing page / portfolio online dan bisa Anda publikasikan secara gratis (tidak perlu bayar hosting). Zaman seperti ini, dari kalangan pemerintahan, kantor perusahaan hingga badan usaha besar, menengah dan kecil, semua membutuhkan website sebagai identitas digitalnya. Bahkan kalangan pribadi saat ini berlomba-lomba untuk membuat website. Inilah sebabnya mengapa semua orang mulai belajar dan mencari cara untuk membuat website dengan mudah sehingga tidak lagi menggunakan layanan orang lain. Pada dasarnya, untuk membuat website, Anda harus memiliki kemampuan dasar untuk mengimplementasikan bahasa pemrograman jaringan. Hal ini diperlukan agar website yang mereka bangun dapat bekerja dengan sempurna. Namun dengan perkembangan teknologi yang begitu pesat, kini Anda bisa membuat website tanpa coding sama sekali. Dengan menggunakan software web builder bernama Mobirise, kamu bisa belajar dan mengetahui cara membuat website dengan mudah, dan hasilnya keren.
+
+**Persyaratan:**
+
+1.  Akses ke web hosting cPanel (baca hosting gratis di akhir artikel)
+
+2.  Aplikasi Seluler
+
+**Cara menggunakan Mobirise**
+
+Jika Anda terbiasa menulis di blog, Anda tidak akan pernah merasa bingung saat menggunakan Mobirise. Aplikasi gratis ini mudah digunakan dan mudah digunakan. Untuk menggunakan Mobirise, Anda harus memiliki email atau menggunakan alamat email yang sudah ada. Berikut langkah-langkah cara mendesain halaman web dengan Mobirise melalui PC:
+
+1.  Download Mobirise di [mobirise.com](https://mobirise.com/), bila anda mengunakan android bisa diunduh disini [playstore android](https://play.google.com/store/apps/details?id=com.mobirise.mobirise)
+
+2.  Pilih sesuai OS pc yang anda gunakan. Apakah Windows atau Mac, lalu klik download![](https://preview--caring-broccoli-60c65.stackbit.dev/\_static/app-assets/mobirise4.PNG)
+
+3.  Kemudian install seperti biasa -> lalu buka aplikasinya
+
+4.  Sebagai langkah pertama, anda tentukan nama "Site" atau situs yang akan anda gunakan nanti. Ingat !! nama blog akan mempengaruhi kata kunci pencarian di google, untuk itu perlu di cermati, agar situs anda nantinya cepat ditemukan di google. Jadi, sesuaikanlah  dengan konten yang anda akan isi. Untuk memulai pengaturan nama situs dan email, arahkan kursor ke "Index html" dan klik untuk membuka. 
+
+5.  sss
