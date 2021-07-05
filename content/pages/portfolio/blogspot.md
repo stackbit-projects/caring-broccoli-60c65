@@ -13,7 +13,6 @@ seo:
 layout: project
 thumb_image: images/blogl.PNG
 ---
-My First Website built with [Blogspot](https://www.blogger.com/) : <https://ajakmaindong.blogspot.com/>
+My First Website built with [Blogspot](https://www.blogger.com/) : <https://ajakmaindong.blogspot.com/> 
 
-
-
+![](/\_static/app-assets/groovy-primrose.PNG)
