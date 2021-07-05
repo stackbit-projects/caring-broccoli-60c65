@@ -13,7 +13,7 @@ sections:
         url: /contact
         style: button
       - label: My Blogspot
-        url: '#'
+        url: 'https://ajakmaindong.blogspot.com/'
         style: link
         icon: dribbble
         new_window: false
