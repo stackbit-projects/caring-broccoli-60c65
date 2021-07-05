@@ -15,7 +15,7 @@ sections:
       - label: My Blogspot
         url: 'https://ajakmaindong.blogspot.com/'
         style: button
-        icon: facebook
+        icon: dribbble
         new_window: false
         no_follow: false
         type: action
