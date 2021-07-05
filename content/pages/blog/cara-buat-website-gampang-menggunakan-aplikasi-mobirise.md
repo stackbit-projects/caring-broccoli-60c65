@@ -1,6 +1,6 @@
 ---
 title: Buat website bagus dengan Mobirise
-subtitle: lorem-ipsum
+subtitle: 'Membuat website landing page '
 date: '2021-07-05'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
